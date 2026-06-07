@@ -1,0 +1,387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Programme Trail Monteynard//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏔️ Programme Trail Monteynard
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Programme préparation Trail Côte Rouge - Passerelles de Monteynard 11 juillet 2026
+BEGIN:VEVENT
+UID:trail-monteynard-1@claude
+DTSTART;TZID=Europe/Paris:20260607T203000
+DTEND;TZID=Europe/Paris:20260607T213000
+SUMMARY:🏃‍♀️ Trail - Sortie courte activation
+DESCRIPTION:SEMAINE 1 - Activation
+
+📏 Distance : 6-7 km
+⏱️ Durée : ~45 min
+🎯 Allure : 6'30-7'00/km — effort confortable
+💓 FC cible : <160 bpm
+
+📋 Séance :
+→ 10 min échauff à 7'00/km
+→ 25 min allure confort 6'30-7'00/km
+→ 10 min retour au calme
+
+⚠️ Genoux : pas de descente forcée
+🫁 Mucovisidose : hydrate bien\, surveille ta respiration
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-2@claude
+DTSTART;TZID=Europe/Paris:20260609T181500
+DTEND;TZID=Europe/Paris:20260609T191500
+SUMMARY:⚡ Fractionné côtes - Semaine 1
+DESCRIPTION:SEMAINE 1 - Qualité
+
+📏 Distance : ~7 km
+⏱️ Durée : ~55 min
+🎯 Effort montée : 85% max — allure soutenue
+💓 FC cible : 160-170 bpm sur les montées
+
+📋 Séance :
+→ 15 min échauff à 7'00/km
+→ 6x (1 min montée effort soutenu + descente lente récup)
+→ 15 min retour au calme 7'00/km
+
+⚠️ Genoux : DESCENTES LENTES\, ne jamais forcer
+🫁 Récupère bien entre chaque répétition
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-3@claude
+DTSTART;TZID=Europe/Paris:20260613T090000
+DTEND;TZID=Europe/Paris:20260613T114500
+SUMMARY:🏔️ Sortie longue trail - Semaine 1
+DESCRIPTION:SEMAINE 1 - Sortie longue
+
+📏 Distance : 16-18 km
+⏱️ Durée : ~2h00-2h15
+🎯 Allure : 7'00-7'30/km — très confortable
+💓 FC cible : <155 bpm — endurance fondamentale
+
+📋 Séance :
+→ Cherche du dénivelé si possible (sentiers)
+→ Marche les montées raides > 15%
+→ Ravitaille toutes les 45 min (eau + gel ou fruits)
+
+⚠️ Genoux : marche en descente si douleur
+🫁 Rythme respiratoire : tu dois pouvoir parler
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-4@claude
+DTSTART;TZID=Europe/Paris:20260616T181500
+DTEND;TZID=Europe/Paris:20260616T191500
+SUMMARY:⚡ Fractionné allure - Semaine 2
+DESCRIPTION:SEMAINE 2 - Qualité
+
+📏 Distance : ~8 km
+⏱️ Durée : ~55 min
+🎯 Allure intervalles : 5'50-6'00/km
+💓 FC cible : 165-172 bpm sur les efforts
+
+📋 Séance :
+→ 15 min échauff à 7'00/km
+→ 4x (5 min à 5'50/km + 3 min récup 7'30/km)
+→ 10 min retour au calme
+
+⚠️ Genoux : surface plane de préférence
+🫁 Si respiration difficile\, réduis l'allure cible
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-5@claude
+DTSTART;TZID=Europe/Paris:20260618T181500
+DTEND;TZID=Europe/Paris:20260618T191500
+SUMMARY:🏃‍♀️ Endurance trail - Semaine 2
+DESCRIPTION:SEMAINE 2 - Endurance
+
+📏 Distance : 9-10 km
+⏱️ Durée : ~1h05
+🎯 Allure : 6'30-7'00/km
+💓 FC cible : <160 bpm
+
+📋 Séance :
+→ Course continue allure confort
+→ Intègre quelques côtes si possible
+→ Reste sur la zone de confort tout au long
+
+🫁 Profite pour travailler la respiration nasale sur les parties plates
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-6@claude
+DTSTART;TZID=Europe/Paris:20260620T090000
+DTEND;TZID=Europe/Paris:20260620T120000
+SUMMARY:🏔️ Sortie longue trail - Semaine 2
+DESCRIPTION:SEMAINE 2 - Sortie longue
+
+📏 Distance : 20-22 km
+⏱️ Durée : ~2h30-3h00
+🎯 Allure : 7'00-8'00/km selon dénivelé
+💓 FC cible : <158 bpm
+
+📋 Séance :
+→ Maximum de dénivelé possible
+→ Simule la course : marche les montées > 12%\, court les plats/descentes douces
+→ Ravitaillement : eau + glucides toutes les 40 min
+→ Test ta nutrition de course !
+
+⚠️ Genoux : bâtons recommandés en descente
+🫁 Objectif : gérer l'effort sur la durée
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-7@claude
+DTSTART;TZID=Europe/Paris:20260622T181500
+DTEND;TZID=Europe/Paris:20260622T191500
+SUMMARY:🏃‍♀️ Sortie légère - Semaine partiels
+DESCRIPTION:SEMAINE 3 - PARTIELS - Séance allégée
+
+📏 Distance : 5-6 km
+⏱️ Durée : ~40 min
+🎯 Allure : 6'45-7'15/km — très facile
+💓 FC cible : <155 bpm
+
+📋 Séance :
+→ Course légère pour maintenir les jambes
+→ Pas d'effort intense cette semaine
+→ Profite pour décompresser des révisions !
+
+✅ Semaine de partiels = garder les jambes sans se fatiguer
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-8@claude
+DTSTART;TZID=Europe/Paris:20260625T181500
+DTEND;TZID=Europe/Paris:20260625T191500
+SUMMARY:🏃‍♀️ Sortie maintien - Semaine partiels
+DESCRIPTION:SEMAINE 3 - PARTIELS - Maintien
+
+📏 Distance : 7 km
+⏱️ Durée : ~50 min
+🎯 Allure : 6'30-7'00/km
+💓 FC cible : <160 bpm
+
+📋 Séance :
+→ Course tranquille\, pas de pression
+→ Si les partiels ont été éprouvants\, réduis à 5 km
+→ Écoute ton corps !
+
+🫁 Bien récupérer après les partiels
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-9@claude
+DTSTART;TZID=Europe/Paris:20260630T181500
+DTEND;TZID=Europe/Paris:20260630T191500
+SUMMARY:⚡ Fractionné spécifique trail - Semaine 4
+DESCRIPTION:SEMAINE 4 - Dernière charge qualité
+
+📏 Distance : ~8 km
+⏱️ Durée : ~55 min
+🎯 Effort : montées soutenues + descentes contrôlées
+💓 FC : 165-173 bpm sur les montées
+
+📋 Séance :
+→ 15 min échauff
+→ 8x (45 sec montée max contrôlé + descente lente)
+→ 15 min retour au calme
+
+⚠️ Dernière séance intense — récupère bien après !
+⚠️ Genoux : descentes TRÈS contrôlées
+🫁 Si tu es fatiguée des partiels\, repousse d'un jour
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-10@claude
+DTSTART;TZID=Europe/Paris:20260702T181500
+DTEND;TZID=Europe/Paris:20260702T191500
+SUMMARY:🏃‍♀️ Endurance allure course - Semaine 4
+DESCRIPTION:SEMAINE 4 - Allure spécifique
+
+📏 Distance : 10 km
+⏱️ Durée : ~1h05
+🎯 Allure : 6'20-6'40/km sur le plat
+💓 FC cible : 158-165 bpm
+
+📋 Séance :
+→ Mise en jambes 10 min
+→ 40 min à allure cible course (7'00/km trail = ~6'30 plat)
+→ 15 min retour au calme
+
+✅ Dernière séance à intensité normale avant affûtage
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-11@claude
+DTSTART;TZID=Europe/Paris:20260704T090000
+DTEND;TZID=Europe/Paris:20260704T111500
+SUMMARY:🏔️ Sortie longue finale - Semaine 4
+DESCRIPTION:SEMAINE 4 - Dernière sortie longue
+
+📏 Distance : 15-17 km
+⏱️ Durée : ~2h00
+🎯 Allure : 7'00-7'30/km
+💓 FC cible : <158 bpm
+
+📋 Séance :
+→ Dernière grosse sortie avant la course
+→ Simule ta gestion de course (départ calme !)
+→ Test définitif nutrition + équipement
+→ Finir fraîche\, pas vidée
+
+⚠️ NE PAS forcer — arriver à la course reposée
+🫁 Ravitaillement identique à la course
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-12@claude
+DTSTART;TZID=Europe/Paris:20260707T181500
+DTEND;TZID=Europe/Paris:20260707T191500
+SUMMARY:🦵 Activation légère - Affûtage J-4
+DESCRIPTION:SEMAINE 5 - AFFÛTAGE
+
+📏 Distance : 5 km
+⏱️ Durée : ~35 min
+🎯 Allure : 6'30-7'00/km — très facile
+💓 FC cible : <155 bpm
+
+📋 Séance :
+→ Course légère pour garder les jambes
+→ 3x 30 sec accélérations légères au milieu
+→ Étirements doux après
+
+✅ Objectif : garder les jambes sans se fatiguer
+❌ Surtout pas d'effort intense cette semaine !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-13@claude
+DTSTART;TZID=Europe/Paris:20260709T181500
+DTEND;TZID=Europe/Paris:20260709T191500
+SUMMARY:🎯 Activation pré-course - J-2
+DESCRIPTION:AFFÛTAGE - J-2 avant la course
+
+📏 Distance : 3-4 km
+⏱️ Durée : ~25 min
+🎯 Allure : très facile 7'00/km
+
+📋 Séance :
+→ 20 min footing très léger
+→ 4x 20 sec accélérations progressives
+→ Étirements
+
+🎒 Ce soir : prépare ton sac de course !
+→ Vérif dossard\, nutrition\, équipement
+→ Coucher tôt !
+
+🫁 Dernière vérif matériel respiratoire si nécessaire
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-14@claude
+DTSTART;TZID=Europe/Paris:20260710T210000
+DTEND;TZID=Europe/Paris:20260710T220000
+SUMMARY:🎒 Préparation J-1 - Côte Rouge
+DESCRIPTION:VEILLE DE COURSE
+
+📋 Check-list :
+→ Dossard récupéré ✓
+→ Sac prêt (eau\, gels\, barres\, k-way)
+→ Chaussures trail vérifiées
+→ Bâtons si autorisés
+→ Chargement montre Garmin
+
+🍝 Repas : pâtes/riz le soir\, pas de nouveauté
+💤 Coucher : 21h30 max
+⏰ Réveil selon heure de départ
+
+🫁 Traitement habituel le matin de la course
+🎯 Objectif : sub 4h00 — tu es prête !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-15@claude
+DTSTART;TZID=Europe/Paris:20260711T000000
+DTEND;TZID=Europe/Paris:20260711T040000
+SUMMARY:🏆 COURSE — Trail Côte Rouge Passerelles de Monteynard
+DESCRIPTION:JOUR J — Trail Côte Rouge des Passerelles de Monteynard
+
+🎯 Objectif : Sub 4h00
+
+📋 Stratégie de course :
+→ DÉPART : résiste à l'euphorie\, pars à 7'30/km
+→ MONTÉES : marche dès que > 12% — économise tes jambes
+→ PLATS : allure 6'30-7'00/km
+→ DESCENTES : contrôlées\, protège tes genoux
+→ Ravitaillement : mange à chaque ravito même sans faim
+
+💓 Gestion effort : si FC > 175 bpm → ralentis
+🫁 Mucoviscidose : hydrate +++ (chaleur juillet)
+
+ALLEZ CORENTINE ! 🔥
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Séance dans 30 min !
+END:VALARM
+END:VEVENT
+END:VCALENDAR
