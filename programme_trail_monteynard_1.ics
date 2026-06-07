@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Programme Trail Monteynard//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Programme Trail Monteynard
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:trail-monteynard-1@claude-2026
+DTSTART;TZID=Europe/Paris:20260607T203000
+DTEND;TZID=Europe/Paris:20260607T213000
+SUMMARY:Trail - Sortie courte activation
+DESCRIPTION:SEMAINE 1 - Activation | Distance : 6-7 km | Duree : ~45 min | Allure : 6h30-7h00/km effort confortable | FC cible : <160 bpm | Seance : 10 min echauff a 7h00/km - 25 min allure confort - 10 min retour au calme | Genoux : pas de descente forcee | Mucovisidose : hydrate bien
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-2@claude-2026
+DTSTART;TZID=Europe/Paris:20260609T181500
+DTEND;TZID=Europe/Paris:20260609T191500
+SUMMARY:Fractionne cotes - Semaine 1
+DESCRIPTION:SEMAINE 1 - Qualite | Distance : ~7 km | Duree : ~55 min | Effort montee : 85% max | FC cible : 160-170 bpm | Seance : 15 min echauff - 6x (1 min montee soutenu + descente lente recup) - 15 min retour au calme | DESCENTES LENTES protege les genoux
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-3@claude-2026
+DTSTART;TZID=Europe/Paris:20260613T090000
+DTEND;TZID=Europe/Paris:20260613T114500
+SUMMARY:Sortie longue trail - Semaine 1
+DESCRIPTION:SEMAINE 1 - Sortie longue | Distance : 16-18 km | Duree : ~2h00-2h15 | Allure : 7h00-7h30/km tres confortable | FC cible : <155 bpm | Marche les montees raides > 15% | Ravitaille toutes les 45 min | Rythme respi : tu dois pouvoir parler
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-4@claude-2026
+DTSTART;TZID=Europe/Paris:20260616T181500
+DTEND;TZID=Europe/Paris:20260616T191500
+SUMMARY:Fractionne allure - Semaine 2
+DESCRIPTION:SEMAINE 2 - Qualite | Distance : ~8 km | Duree : ~55 min | Allure intervalles : 5h50-6h00/km | FC cible : 165-172 bpm | Seance : 15 min echauff - 4x (5 min a 5h50/km + 3 min recup 7h30/km) - 10 min retour au calme | Si respiration difficile reduire allure
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-5@claude-2026
+DTSTART;TZID=Europe/Paris:20260618T181500
+DTEND;TZID=Europe/Paris:20260618T191500
+SUMMARY:Endurance trail - Semaine 2
+DESCRIPTION:SEMAINE 2 - Endurance | Distance : 9-10 km | Duree : ~1h05 | Allure : 6h30-7h00/km | FC cible : <160 bpm | Course continue allure confort avec quelques cotes | Travailler la respiration nasale sur les parties plates
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-6@claude-2026
+DTSTART;TZID=Europe/Paris:20260620T090000
+DTEND;TZID=Europe/Paris:20260620T120000
+SUMMARY:Sortie longue trail - Semaine 2
+DESCRIPTION:SEMAINE 2 - Sortie longue | Distance : 20-22 km | Duree : ~2h30-3h00 | Allure : 7h00-8h00/km selon denivele | FC cible : <158 bpm | Maximum de denivele - Simule la course - Ravitaillement toutes les 40 min | Test ta nutrition de course !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-7@claude-2026
+DTSTART;TZID=Europe/Paris:20260622T181500
+DTEND;TZID=Europe/Paris:20260622T191500
+SUMMARY:Sortie legere - Semaine partiels
+DESCRIPTION:SEMAINE 3 - PARTIELS - Seance allegee | Distance : 5-6 km | Duree : ~40 min | Allure : 6h45-7h15/km tres facile | FC cible : <155 bpm | Course legere pour maintenir les jambes | Pas d effort intense cette semaine | Decompresse des revisions !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-8@claude-2026
+DTSTART;TZID=Europe/Paris:20260625T181500
+DTEND;TZID=Europe/Paris:20260625T191500
+SUMMARY:Sortie maintien - Semaine partiels
+DESCRIPTION:SEMAINE 3 - PARTIELS - Maintien | Distance : 7 km | Duree : ~50 min | Allure : 6h30-7h00/km | FC cible : <160 bpm | Course tranquille - si partiels eprouvants reduire a 5 km | Ecoute ton corps !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-9@claude-2026
+DTSTART;TZID=Europe/Paris:20260630T181500
+DTEND;TZID=Europe/Paris:20260630T191500
+SUMMARY:Fractionne specifique trail - Semaine 4
+DESCRIPTION:SEMAINE 4 - Derniere charge qualite | Distance : ~8 km | Duree : ~55 min | Effort : montees soutenues + descentes controlees | FC : 165-173 bpm montees | Seance : 15 min echauff - 8x (45 sec montee max controle + descente lente) - 15 min retour | DESCENTES TRES CONTROLEES
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-10@claude-2026
+DTSTART;TZID=Europe/Paris:20260702T181500
+DTEND;TZID=Europe/Paris:20260702T191500
+SUMMARY:Endurance allure course - Semaine 4
+DESCRIPTION:SEMAINE 4 - Allure specifique | Distance : 10 km | Duree : ~1h05 | Allure : 6h20-6h40/km sur le plat | FC cible : 158-165 bpm | Mise en jambes 10 min - 40 min allure cible - 15 min retour au calme | Derniere seance a intensite normale avant affutage
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-11@claude-2026
+DTSTART;TZID=Europe/Paris:20260704T090000
+DTEND;TZID=Europe/Paris:20260704T111500
+SUMMARY:Sortie longue finale - Semaine 4
+DESCRIPTION:SEMAINE 4 - Derniere sortie longue | Distance : 15-17 km | Duree : ~2h00 | Allure : 7h00-7h30/km | FC cible : <158 bpm | Simule gestion de course - depart calme | Test definitif nutrition + equipement | Finir fraiche pas videe | NE PAS FORCER
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-12@claude-2026
+DTSTART;TZID=Europe/Paris:20260707T181500
+DTEND;TZID=Europe/Paris:20260707T191500
+SUMMARY:Activation legere - Affutage J-4
+DESCRIPTION:SEMAINE 5 - AFFUTAGE | Distance : 5 km | Duree : ~35 min | Allure : 6h30-7h00/km tres facile | FC cible : <155 bpm | Course legere - 3x 30 sec accelerations legeres - Etirements doux | Garder les jambes sans se fatiguer | PAS d effort intense cette semaine !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-13@claude-2026
+DTSTART;TZID=Europe/Paris:20260709T181500
+DTEND;TZID=Europe/Paris:20260709T191500
+SUMMARY:Activation pre-course - J-2
+DESCRIPTION:AFFUTAGE - J-2 avant la course | Distance : 3-4 km | Duree : ~25 min | Allure : tres facile 7h00/km | 20 min footing tres leger - 4x 20 sec accelerations progressives - Etirements | Ce soir : preparer sac de course - verif dossard nutrition equipement - Coucher tot !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-14@claude-2026
+DTSTART;TZID=Europe/Paris:20260710T210000
+DTEND;TZID=Europe/Paris:20260710T220000
+SUMMARY:Preparation J-1 - Cote Rouge
+DESCRIPTION:VEILLE DE COURSE | Check-list : Dossard recupere - Sac pret eau gels barres k-way - Chaussures trail verifiees - Batons si autorises - Chargement montre Garmin | Repas : pates/riz le soir | Coucher : 21h30 max | Traitement habituel le matin | Objectif : sub 4h00 tu es prete !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trail-monteynard-15@claude-2026
+DTSTART;TZID=Europe/Paris:20260711T000000
+DTEND;TZID=Europe/Paris:20260711T040000
+SUMMARY:COURSE - Trail Cote Rouge Passerelles de Monteynard
+DESCRIPTION:JOUR J - Trail Cote Rouge des Passerelles de Monteynard | Objectif : Sub 4h00 | Strategie : DEPART calme 7h30/km - MONTEES marche > 12% - PLATS 6h30-7h00/km - DESCENTES controlees genoux | Ravitaillement a chaque ravito meme sans faim | FC > 175 bpm ralentis | Hydrate +++ chaleur juillet | ALLEZ CORENTINE !
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Seance dans 30 min !
+END:VALARM
+END:VEVENT
+END:VCALENDAR
